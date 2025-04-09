@@ -1,6 +1,6 @@
 # 10minutos
 
-![Ionic](src/assets/Logo_ionic.png)
+![Worpress](wp-includes/images/Wordpress.png)
 
 Curso online:
 
@@ -11,6 +11,12 @@ Jorge Sant Ana e Jamilton Damasceno
 
 Desenvolvimento de um site utilizando Wordpress com o tema Sydney. 
 
-![Aplicativo](src/assets/App1.png) 
+![Cabeçalho](wp-includes/images/Site1.png)
+
+![Cabeçalho](wp-includes/images/Site2.png)
+
+![Cabeçalho](wp-includes/images/Site3.png)
+
+![Cabeçalho](wp-includes/images/Site4.png)
 
  
