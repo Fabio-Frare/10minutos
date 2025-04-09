@@ -1,6 +1,6 @@
-# 10minutos
+![Worpress](wp-includes/images/WordPress.png)
 
-![Worpress](wp-includes/images/Wordpress.png)
+# 10minutos
 
 Curso online:
 
